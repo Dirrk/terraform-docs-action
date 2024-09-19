@@ -1,4 +1,4 @@
-name: terraform-docs
+name: terraform-docs-archived
 author: Derek Rada
 description: A Github action for generating terraform module documentation using terraform-docs and gomplate.
 inputs:
